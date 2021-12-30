@@ -682,4 +682,11 @@ hr{
         text-align: left;
     }
 
+    .content-col div p {
+        padding: 0;
+        margin: 0;
+        font-size: 15px;
+        text-align: left;
+    }
+
 }
