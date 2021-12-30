@@ -620,4 +620,12 @@ hr{
         font-size: 24px;
     }
 
+    .cta h1 {
+        font-size: 24px;
+    }
+
+    .testimonials-col p {
+        text-align: left;
+    }
+
 }
