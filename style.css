@@ -664,7 +664,14 @@ hr{
 
     .btn {
         margin-top: 0;
+        width: 100%;
+        margin: auto;
     }
+
+    .about-col .hero_btn {
+        text-align: center;
+    }
+
 
     .blog-right h3 {
         margin-top: 30px;
